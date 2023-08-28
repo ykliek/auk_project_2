@@ -4,26 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54d6a908-8817-4e1f-9a48-2e6bb8277185" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part_1/Comments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part_1/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part_1/IO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part_1/Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part_1/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part_2/HitchhikersChat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/chatbot_output.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/comments_output.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/io_output.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/numbers_output.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/strings_output.png" afterDir="false" />
+    <list default="true" id="54d6a908-8817-4e1f-9a48-2e6bb8277185" name="Changes" comment="Done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "openjdk-20",
@@ -77,8 +60,8 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.HitchhikersChat">
-    <configuration name="Comments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part_1.Comments" />
+    <configuration name="DataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part_1.DataTypes" />
       <module name="project_2" />
       <extension name="coverage">
         <pattern>
@@ -148,7 +131,7 @@
         <item itemvalue="Application.Strings" />
         <item itemvalue="Application.Numbers" />
         <item itemvalue="Application.IO" />
-        <item itemvalue="Application.Comments" />
+        <item itemvalue="Application.DataTypes" />
       </list>
     </recent_temporary>
   </component>
@@ -160,12 +143,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693239161734</updated>
-      <workItem from="1693239162842" duration="11720000" />
+      <workItem from="1693239162842" duration="15092000" />
     </task>
+    <task id="LOCAL-00001" summary="Done">
+      <option name="closed" value="true" />
+      <created>1693251502094</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693251502094</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

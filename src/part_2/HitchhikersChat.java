@@ -81,7 +81,8 @@ public class HitchhikersChat {
 		String response = "";
 
 		if(input.equals("Hello")) {
-			response = "Hello, " + input + "! Welcome to the Hitchhiker's Chat!";
+			response = "Hello, " + input + "! Welcome to the Hitchhiker's " +
+					"Chat!";
 		} else if(input.equals("How are you?")) {
 			response = "I'm fine, thanks. And you?";
 		} else if(input.equals("I'm fine, thanks.")) {
